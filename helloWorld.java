@@ -1,0 +1,10 @@
+//Collin Dreher - this is in here simply to display Java as the repository language...
+
+public class HelloWorld
+{
+	public static void main(String[] args)
+	{
+		System.out.println();
+		System.out.println("Hello world");
+	}
+}
